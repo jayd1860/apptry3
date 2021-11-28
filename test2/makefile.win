@@ -1,0 +1,12 @@
+
+
+CRAPPADOODLE #3
+        cd src
+        make opt
+debug::
+        cd src
+        make debug
+clean::
+        cd src
+        make clean
+
